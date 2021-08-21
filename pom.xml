@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>micromall-common</module>
         <module>micromall-coupon</module>
         <module>micromall-member</module>
         <module>micromall-order</module>
